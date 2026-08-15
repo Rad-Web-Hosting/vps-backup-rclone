@@ -7,3 +7,5 @@ Run the following command to grab the script and run it:
 <pre>wget https://raw.githubusercontent.com/Rad-Web-Hosting/vps-backup-rclone/refs/heads/main/vps_backup.sh
 chmod +x vps_backup.sh
 ./vps_backup.sh</pre>
+
+[Clone in Visual Studio Code](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=git@github.com:rad-web-hosting/vps-backup-rclone.git)
